@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
+<h1 align="center">Hi 👋, I'm Dinuka Thilakarathne</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaveendinethma&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendinethma" />
 </p>
 
-- 🌱 I’m currently learning **MERN**  
-- 🎓 I'm an Undergraduate at **SLIIT**  
-- 💬 Ask me about **Java**  
-- 📫 Reach me at **kaveen.dinethma@gmail.com**  
-- ⚡ Fun fact: **Call me as KD**
+
+ 
+- 💬 Ask me about **RPA**  
+- 📫 Reach me at **dinukathilakarathne@gmail.com**  
+
 
 ---
 
