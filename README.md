@@ -23,7 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuka99&show_icons=true&locale=en&layout=compact" alt="dinuka99"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinuka99&" alt="dinuka99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinuka99&" alt="dinuka99" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coff.ee/dinuk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/dinuk" /></a></p><br><br>
