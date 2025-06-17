@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Dinuka Thilakarathne</h1>
+<h1 align="center">Hi, I'm Dinuka. I am passionately curious and enjoy exploring a wide range of subjects that spark my interest. I have a strong background as an experienced Robotic Process Automation (RPA) Developer, with a proven history of designing and implementing automation solutions in the Banking & Finance and Healthcare domains. Currently, I serve as an Operations Manager in the Healthcare sector, where I continue to apply my technical expertise and strategic thinking to drive efficiency and innovation.</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
