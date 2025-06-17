@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**dinuka99/dinuka99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaveendinethma&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendinethma" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **MERN**  
+- 🎓 I'm an Undergraduate at **SLIIT**  
+- 💬 Ask me about **Java**  
+- 📫 Reach me at **kaveen.dinethma@gmail.com**  
+- ⚡ Fun fact: **Call me as KD**
+
+---
+
+### 📊 My Statistics:
+
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaveendinethma&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveendinethma&layout=compact&theme=dark" alt="Top languages" />
+</p>
