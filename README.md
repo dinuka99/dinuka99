@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuka99&show_icons=true&locale=en&layout=compact" alt="dinuka99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinuka99&" alt="dinuka99" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dinuka99&" alt="dinuka99" /></p>
