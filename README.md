@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinuka99&label=Profile%20views&color=0e75b6&style=flat" alt="dinuka99" /> </p>
 
-- 📫 How to reach me **dinukathilakarathne@gmail.com**
+- 📫 How to reach me **: - dinukathilakarathne@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/dinuka-thilakarathne-36421814b](linkedin.com/in/dinuka-thilakarathne-36421814b)
+- 📄 Know about my experiences [linkedin.com/in/dinuka-thilakarathne-36421814b](https://www.linkedin.com/in/dinuka-thilakarathne-36421814b/)
 
-- ⚡ Fun fact **I think I'm Bat Man**
+- ⚡ Fun fact **: - I think I'm the Bat Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
