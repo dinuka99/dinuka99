@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **: - dinukathilakarathne@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/dinuka-thilakarathne-36421814b](https://www.linkedin.com/in/dinuka-thilakarathne-36421814b/)
+- 📄 Know about my experiences : - [linkedin.com/in/dinuka-thilakarathne-36421814b](https://www.linkedin.com/in/dinuka-thilakarathne-36421814b/)
 
 - ⚡ Fun fact **: - I think I'm the Bat Man**
 
